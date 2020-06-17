@@ -19,8 +19,8 @@ namespace GitTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            comboBox1.Items.Add("ABC");
             comboBox1.Items.Add("AAA");
+            comboBox1.Items.Add("BBB");
             comboBox1.Items.Add("CCC");
         }
     }
